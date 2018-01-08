@@ -1,5 +1,5 @@
 {
-  "name": "node-binance-api",
+  "name": "binance-api",
   "version": "0.3.3",
   "description": "Binance API for node https://github.com/jaggedsoft/node-binance-api",
   "main": "node-binance-api.js",
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/jaggedsoft/node-binance-api/issues"
   },
-  "homepage": "https://github.com/jaggedsoft/node-binance-api#readme"
+  "homepage": "https://github.com/jaggedsoft/node-binance-api#readme",
+  "directories": {
+    "example": "examples"
+  }
 }
